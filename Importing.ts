@@ -17,7 +17,7 @@ console.log(employee1);
 console.log(Employee.isEmployed);
 Employee.payTax();
 
-/*
+/*.
 Static block executed. Employee is employed: true
 [Function: greeting]
 John Doe is working.
